@@ -1,5 +1,6 @@
 ## Miembros
 
+* Nick furia
 * Black panther
 * Black Widow
 * Capitán America
